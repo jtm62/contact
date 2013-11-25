@@ -25,7 +25,7 @@ The object of this project was initally so I could have a clean and portable con
 
 Files included:
 
-1. contactDB.sql - a dump of the database schema. 
+1. contactDB.sql & loggerDB.sql - a dump of the database schema. 
 Current Version 1.0; Updated 25 November 2013 12:00
 
 2. contactScript.js - the script which builds the dynamic contact form. 
