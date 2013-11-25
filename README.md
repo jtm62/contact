@@ -13,11 +13,13 @@ General Disclaimer:  I decided to start using Github for several reasons.  First
 
 This library will contain my take on dynamic contact forms, built anywhere on a webpage, allowing contact via email, cellular phone call, or SMS text message.
 
-=================================IMPORTANT==============================================================
+=================================IMPORTANT======================
+
 To perform SMS texting you will need a google voice account or a cell phone attached to your server capable of integrating with Gammu.
 
 To perform cellular phone calls you will need a google voice account.
-========================================================================================================
+
+================================================================
 
 The object of this project was initally so I could have a clean and portable contact form for any of my various website projects.  I wanted to be able to archive each contact attempt in a database for review or analysis, if it was necessary. Therefore, I created a contact database, it is built in MySQL, and a dump of the design is included in this library.  It is primative, with only one table for storing all contact data as a flat file.  It could be further refined by including a few other tables, with a primary need for a banned persons table.  Persons should be banned by IP, email, or phone.  IPs should have the ability to be Blacklisted entirely, or only in conjunction with a blacklisted contact number.
 
