@@ -6,7 +6,9 @@ My take on a dynamic contact form.
 My Contact information:
 
 Name: Joshua T. McCauley
+
 email: jtmccauley62@gmail.com
+
 phone: 412-414-1106
 
 General Disclaimer:  I decided to start using Github for several reasons.  First, I wanted to share some of my work with the community so people did not have to reinvent the wheel if they were doing something similar.  However, more importantly, I also wanted my work critiqued by the community, all my webdev has been done by trial and error, with no formal training or mentorship, I know that I can make improvements in my methods and practices and I am looking forward to hearing your own thoughts and suggestions.
