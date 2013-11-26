@@ -218,6 +218,6 @@ $response=$call->send_mail(7,'checking','enter phone here');
 
 /* Sending SMS */
 /*$success=$sms->Send('enter phone here','Rearranged class setup, the get function automatically forwards and deletes the messages now!');
-print_r($response);
+print_r($response);*/
 	
 ?>
